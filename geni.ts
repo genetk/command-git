@@ -11,7 +11,7 @@ console.log("fixed heater");
 console.log('local change && remote change');
 
 console.log("day");
-// console.log("week");
+console.log("week");
 // console.log("month");
 
 
