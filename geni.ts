@@ -12,6 +12,7 @@ console.log('local change && remote change');
 
 console.log("day");
 console.log("week");
-// console.log("month");
+console.log("month");
+
 
 
