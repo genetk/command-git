@@ -7,3 +7,4 @@ console.log ("class no 36");
 
 console.log("clas in library");
 console.log("fixed heater");
+console.log('remote change');
